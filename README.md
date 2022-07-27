@@ -3,6 +3,8 @@
 
 This project was made to apply to **** Junior Frontend Developer position
 
+The aim of this project was to focus on the code structure and logic, with minimal emphasis put on design
+
 
 ## Demo
 
