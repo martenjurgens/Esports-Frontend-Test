@@ -1,0 +1,27 @@
+.matchesContainer {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  background-color: #edede4;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.upcomingMatches {
+  width: 75%;
+}
+
+.pastMatches {
+  width: 75%;
+}
+
+@media only screen and (max-width: 600px) {
+  .upcomingMatches {
+    width: 100%;
+  }
+
+  .pastMatches {
+    width: 100%;
+  }
+}

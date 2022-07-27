@@ -1,0 +1,5984 @@
+[
+    {
+        "id": 275923,
+        "title": "Match-C",
+        "start": "2021-03-29T02:00:00Z",
+        "end": "2021-03-29T03:59:12Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 76745
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 70292
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507108
+            },
+            {
+                "id": 507109
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6584
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4098
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6582
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": true,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275924,
+        "title": "Match-A",
+        "start": "2021-03-29T02:05:00Z",
+        "end": "2021-03-29T04:05:32Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 69260
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 76643
+                },
+                "winner": true,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507110
+            },
+            {
+                "id": 507111
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6572
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275925,
+        "title": "Match-B",
+        "start": "2021-03-29T04:20:00Z",
+        "end": "2021-03-29T06:14:32Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": true,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 69260
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507112
+            },
+            {
+                "id": 507113
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3949
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6571
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275926,
+        "title": "Match-A",
+        "start": "2021-03-29T04:24:00Z",
+        "end": "2021-03-29T06:25:22Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 70292
+                },
+                "winner": true,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 85964
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507114
+            },
+            {
+                "id": 507115
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6572
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275927,
+        "title": "Match-B",
+        "start": "2021-03-29T02:07:00Z",
+        "end": "2021-03-29T03:48:44Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": true,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 57676
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507116
+            },
+            {
+                "id": 507117
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3949
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6571
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275928,
+        "title": "Match-C",
+        "start": "2021-03-29T04:17:00Z",
+        "end": "2021-03-29T06:07:13Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 57676
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507118
+            },
+            {
+                "id": 507119
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6584
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4098
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6582
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275929,
+        "title": "Match-A",
+        "start": "2021-03-29T06:42:00Z",
+        "end": "2021-03-29T09:09:23Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 57676
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 70292
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507120
+            },
+            {
+                "id": 507121
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275930,
+        "title": "Match-B",
+        "start": "2021-03-29T06:30:00Z",
+        "end": "2021-03-29T08:19:53Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 76643
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507122
+            },
+            {
+                "id": 507123
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3949
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6571
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275931,
+        "title": "Match-C",
+        "start": "2021-03-29T06:42:00Z",
+        "end": "2021-03-29T08:46:41Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 85964
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 76745
+                },
+                "winner": true,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507124
+            },
+            {
+                "id": 507125
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6584
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4098
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6582
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": true,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275932,
+        "title": "Match-A",
+        "start": "2021-03-29T09:26:00Z",
+        "end": "2021-03-29T11:23:44Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 85964
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 76643
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507126
+            },
+            {
+                "id": 507127
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275933,
+        "title": "Match-B",
+        "start": "2021-03-29T09:26:00Z",
+        "end": "2021-03-29T11:03:52Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 57676
+                },
+                "winner": true,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76745
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507128
+            },
+            {
+                "id": 507129
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3949
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6571
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            }
+        ],
+        "has_incident_report": true,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275934,
+        "title": "Match-C",
+        "start": "2021-03-29T09:27:00Z",
+        "end": "2021-03-29T11:25:04Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 70292
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": true,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507130
+            },
+            {
+                "id": 507131
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6584
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4098
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6582
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275935,
+        "title": "Match-C",
+        "start": "2021-03-30T02:01:00Z",
+        "end": "2021-03-30T03:49:29Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 76643
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 57676
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507132
+            },
+            {
+                "id": 507133
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6584
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6582
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275936,
+        "title": "Match-B",
+        "start": "2021-03-30T02:03:00Z",
+        "end": "2021-03-30T03:54:23Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 69260
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 70292
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507134
+            },
+            {
+                "id": 507135
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3949
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275937,
+        "title": "Match-A",
+        "start": "2021-03-30T02:01:00Z",
+        "end": "2021-03-30T03:54:42Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 85964
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507136
+            },
+            {
+                "id": 507137
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4098
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6571
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275938,
+        "title": "Match-C",
+        "start": "2021-03-29T11:46:00Z",
+        "end": "2021-03-29T13:31:28Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": true,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 85964
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507138
+            },
+            {
+                "id": 507139
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6584
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4098
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6582
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275939,
+        "title": "Match-B",
+        "start": "2021-03-29T11:46:00Z",
+        "end": "2021-03-29T13:34:47Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": true,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76643
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507140
+            },
+            {
+                "id": 507141
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3949
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6571
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275940,
+        "title": "Match-A",
+        "start": "2021-03-29T11:46:00Z",
+        "end": "2021-03-29T13:32:27Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 76745
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 69260
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507142
+            },
+            {
+                "id": 507143
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            }
+        ],
+        "has_incident_report": true,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275941,
+        "title": "Match-A",
+        "start": "2021-03-30T04:13:00Z",
+        "end": "2021-03-30T05:53:45Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 76745
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507146
+            },
+            {
+                "id": 507147
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3949
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            }
+        ],
+        "has_incident_report": true,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275942,
+        "title": "Match-B",
+        "start": "2021-03-30T04:13:00Z",
+        "end": "2021-03-30T06:16:31Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 69260
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 85964
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507148
+            },
+            {
+                "id": 507149
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4098
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6571
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "partial"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275943,
+        "title": "Match-C",
+        "start": "2021-03-30T04:13:00Z",
+        "end": "2021-03-30T05:45:04Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 70292
+                },
+                "winner": true,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76643
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507144
+            },
+            {
+                "id": 507145
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6584
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6582
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275944,
+        "title": "Match-A",
+        "start": "2021-03-30T06:12:00Z",
+        "end": "2021-03-30T08:09:55Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76643
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 76745
+                },
+                "winner": true,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507150
+            },
+            {
+                "id": 507151
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": true,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275945,
+        "title": "Match-B",
+        "start": "2021-03-30T06:34:00Z",
+        "end": "2021-03-30T08:27:00Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": true,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 69260
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507152
+            },
+            {
+                "id": 507153
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6571
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "partial"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275946,
+        "title": "Match-C",
+        "start": "2021-03-30T06:32:00Z",
+        "end": "2021-03-30T08:12:16Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 57676
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 85964
+                },
+                "winner": true,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507154
+            },
+            {
+                "id": 507155
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6584
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6582
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "partial"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275947,
+        "title": "Match-A",
+        "start": "2021-03-30T08:41:00Z",
+        "end": "2021-03-30T10:44:48Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 57676
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 69260
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507156
+            },
+            {
+                "id": 507157
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6584
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275948,
+        "title": "Match-B",
+        "start": "2021-03-30T08:27:00Z",
+        "end": "2021-03-30T10:24:59Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over-draw",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 1,
+                "forfeit": false,
+                "roster": {
+                    "id": 76745
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507158
+            },
+            {
+                "id": 507159
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": true,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275949,
+        "title": "Match-C",
+        "start": "2021-03-30T08:41:00Z",
+        "end": "2021-03-30T10:15:20Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": true,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 70292
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507160
+            },
+            {
+                "id": 507161
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6584
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 275950,
+        "title": "Match-A",
+        "start": "2021-03-30T10:46:00Z",
+        "end": "2021-03-30T12:12:42Z",
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "over",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [
+            {
+                "seed": 1,
+                "score": 2,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": true,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507162
+            },
+            {
+                "id": 507163
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 277520,
+        "title": "Match-B",
+        "start": "2021-03-30T10:00:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": "2021-03-18T06:47:10Z",
+        "lifecycle": "deleted",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 511946
+            },
+            {
+                "id": 511947
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 277521,
+        "title": "Match-C",
+        "start": "2021-03-30T10:00:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": "2021-03-18T06:47:12Z",
+        "lifecycle": "deleted",
+        "tier": 1,
+        "best_of": 2,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": null,
+        "participants": [],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28320
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 511948
+            },
+            {
+                "id": 511949
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 2
+        }
+    },
+    {
+        "id": 274629,
+        "title": "Bracket - Grand final",
+        "start": "2025-04-04T06:45:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 5,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "GF",
+            "col": 0,
+            "offset": 1
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 79439
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 57080
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507215
+            },
+            {
+                "id": 507216
+            },
+            {
+                "id": 507217
+            },
+            {
+                "id": 507218
+            },
+            {
+                "id": 507219
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 5
+        }
+    },
+    {
+        "id": 274630,
+        "title": "Bracket - UB Finals",
+        "start": "2025-04-03T09:18:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "UB",
+            "col": 0,
+            "offset": 1
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 79439
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507200
+            },
+            {
+                "id": 507201
+            },
+            {
+                "id": 507202
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274631,
+        "title": "Bracket - UB Semifinal",
+        "start": "2025-04-02T02:03:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "UB",
+            "col": 1,
+            "offset": 2
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 79439
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 57080
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507176
+            },
+            {
+                "id": 507177
+            },
+            {
+                "id": 507178
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274632,
+        "title": "Bracket - UB Semifinal",
+        "start": "2025-04-02T04:30:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "UB",
+            "col": 1,
+            "offset": 3
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 59443
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507179
+            },
+            {
+                "id": 507180
+            },
+            {
+                "id": 507181
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274633,
+        "title": "Bracket - UB Quarterfinal",
+        "start": "2025-03-31T02:15:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "UB",
+            "col": 2,
+            "offset": 4
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 79439
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 80511
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507164
+            },
+            {
+                "id": 507165
+            },
+            {
+                "id": 507166
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274634,
+        "title": "Bracket - UB Quarterfinal",
+        "start": "2025-03-31T05:08:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "UB",
+            "col": 2,
+            "offset": 5
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 57080
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76745
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507167
+            },
+            {
+                "id": 507168
+            },
+            {
+                "id": 507169
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 5844
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6590
+                }
+            }
+        ],
+        "has_incident_report": true,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274635,
+        "title": "Bracket - UB Quarterfinal",
+        "start": "2025-03-31T08:56:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "UB",
+            "col": 2,
+            "offset": 6
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 59443
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507170
+            },
+            {
+                "id": 507171
+            },
+            {
+                "id": 507172
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 1474
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3090
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4973
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 5844
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6457
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6590
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274636,
+        "title": "Bracket - UB Quarterfinal",
+        "start": "2025-03-31T11:45:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "UB",
+            "col": 2,
+            "offset": 7
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 78923
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507173
+            },
+            {
+                "id": 507174
+            },
+            {
+                "id": 507175
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 2753
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3090
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4973
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 5338
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 5844
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274637,
+        "title": "Bracket - LB Cons. final",
+        "start": "2025-04-04T02:03:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "LB",
+            "col": 0,
+            "offset": 1
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76642
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 57080
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507209
+            },
+            {
+                "id": 507210
+            },
+            {
+                "id": 507211
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 5844
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274638,
+        "title": "Bracket - LB Final",
+        "start": "2025-04-03T12:30:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "LB",
+            "col": 1,
+            "offset": 2
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 59443
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 57080
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507212
+            },
+            {
+                "id": 507213
+            },
+            {
+                "id": 507214
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274639,
+        "title": "Bracket - LB Semifinal",
+        "start": "2025-04-03T02:02:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "LB",
+            "col": 2,
+            "offset": 3
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 59443
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 85964
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507203
+            },
+            {
+                "id": 507204
+            },
+            {
+                "id": 507205
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274640,
+        "title": "Bracket - LB Semifinal",
+        "start": "2025-04-03T06:05:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "LB",
+            "col": 2,
+            "offset": 4
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 57080
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507206
+            },
+            {
+                "id": 507207
+            },
+            {
+                "id": 507208
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274641,
+        "title": "Bracket - Lower bracket",
+        "start": "2025-04-02T11:12:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "LB",
+            "col": 3,
+            "offset": 5
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 78923
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507194
+            },
+            {
+                "id": 507195
+            },
+            {
+                "id": 507196
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3949
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6584
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274642,
+        "title": "Bracket - Lower bracket",
+        "start": "2025-04-02T07:57:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "LB",
+            "col": 3,
+            "offset": 6
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76745
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 85964
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507197
+            },
+            {
+                "id": 507198
+            },
+            {
+                "id": 507199
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3949
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6576
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6584
+                }
+            }
+        ],
+        "has_incident_report": true,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274643,
+        "title": "Bracket - Lower bracket",
+        "start": "2025-04-01T10:27:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "LB",
+            "col": 4,
+            "offset": 7
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 78923
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 70292
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507182
+            },
+            {
+                "id": 507183
+            },
+            {
+                "id": 507184
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 1474
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 2311
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3090
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4973
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 5076
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 5844
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6457
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274644,
+        "title": "Bracket - Lower bracket",
+        "start": "2025-04-01T07:50:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "LB",
+            "col": 4,
+            "offset": 8
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 81359
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76643
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507185
+            },
+            {
+                "id": 507186
+            },
+            {
+                "id": 507187
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 1474
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 2311
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3090
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 5844
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6403
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274645,
+        "title": "Bracket - Lower bracket",
+        "start": "2025-04-01T05:29:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "LB",
+            "col": 4,
+            "offset": 9
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 76745
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 57676
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507188
+            },
+            {
+                "id": 507189
+            },
+            {
+                "id": 507190
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": true,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    },
+    {
+        "id": 274646,
+        "title": "Bracket - Lower bracket",
+        "start": "2025-04-01T02:02:00Z",
+        "end": null,
+        "postponed_from": null,
+        "deleted_at": null,
+        "lifecycle": "upcoming",
+        "tier": 1,
+        "best_of": 3,
+        "chain": [],
+        "streamed": true,
+        "bracket_position": {
+            "part": "LB",
+            "col": 4,
+            "offset": 10
+        },
+        "participants": [
+            {
+                "seed": 1,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 80511
+                },
+                "winner": false,
+                "stats": null
+            },
+            {
+                "seed": 2,
+                "score": 0,
+                "forfeit": false,
+                "roster": {
+                    "id": 85964
+                },
+                "winner": false,
+                "stats": null
+            }
+        ],
+        "tournament": {
+            "name": "2021 One Esports Singapore Major",
+            "id": 5699
+        },
+        "substage": {
+            "id": 28797
+        },
+        "game": {
+            "id": 1
+        },
+        "matches": [
+            {
+                "id": 507191
+            },
+            {
+                "id": 507192
+            },
+            {
+                "id": 507193
+            }
+        ],
+        "casters": [
+            {
+                "primary": true,
+                "caster": {
+                    "id": 4815
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 3948
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6573
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6574
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6575
+                }
+            },
+            {
+                "primary": false,
+                "caster": {
+                    "id": 6583
+                }
+            }
+        ],
+        "has_incident_report": false,
+        "coverage": {
+            "data": {
+                "live": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "cv": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "realtime": {
+                    "api": {
+                        "expectation": "available",
+                        "fact": "available"
+                    },
+                    "server": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    }
+                },
+                "postgame": {
+                    "api": {
+                        "expectation": "unsupported",
+                        "fact": "unsupported"
+                    },
+                    "server": {
+                        "expectation": "available",
+                        "fact": "available"
+                    }
+                }
+            }
+        },
+        "format": {
+            "best_of": 3
+        }
+    }
+]

@@ -1,0 +1,580 @@
+[
+    {
+        "id": 1,
+        "name": "Alliance",
+        "abbreviation": "Alliance",
+        "dpc_points": 345,
+        "also_known_as": [],
+        "deleted_at": null,
+        "active": true,
+        "images": [
+            {
+                "id": 5476,
+                "type": "default",
+                "url": "https://img.abiosgaming.com/competitors/The-Alliance-v2.png",
+                "thumbnail": "https://img.abiosgaming.com/competitors/thumbnails/The-Alliance-v2.png",
+                "fallback": false
+            }
+        ],
+        "region": {
+            "id": 1,
+            "name": "Europe",
+            "abbreviation": "EU",
+            "country": {
+                "id": 243,
+                "name": "Sweden",
+                "abbreviation": "SE",
+                "images": [
+                    {
+                        "id": 243,
+                        "type": "default",
+                        "url": "https://img.abiosgaming.com/flags/Sweden.png",
+                        "thumbnail": "https://img.abiosgaming.com/flags/thumbnails/Sweden.png",
+                        "fallback": false
+                    }
+                ]
+            }
+        },
+        "social_media_accounts": [
+            {
+                "handle": "theAllianceGG",
+                "url": "https://twitter.com/theAllianceGG",
+                "platform": {
+                    "id": 1,
+                    "name": "Twitter",
+                    "slug": "twitter"
+                }
+            },
+            {
+                "handle": "theAllianceGG",
+                "url": "https://www.facebook.com/theAllianceGG",
+                "platform": {
+                    "id": 2,
+                    "name": "Facebook",
+                    "slug": "facebook"
+                }
+            },
+            {
+                "handle": "team/alliance",
+                "url": "https://www.twitch.tv/team/alliance",
+                "platform": {
+                    "id": 3,
+                    "name": "Twitch",
+                    "slug": "twitch"
+                }
+            },
+            {
+                "handle": "AllianceDotA2",
+                "url": "https://weibo.com/AllianceDotA2",
+                "platform": {
+                    "id": 4,
+                    "name": "Weibo",
+                    "slug": "weibo"
+                }
+            },
+            {
+                "handle": "nth_alliance",
+                "url": "https://vk.com/nth_alliance",
+                "platform": {
+                    "id": 5,
+                    "name": "VK",
+                    "slug": "vk"
+                }
+            }
+        ],
+        "standing_roster": {
+            "id": 16878,
+            "from": "2022-02-27T00:00:00Z",
+            "to": null,
+            "roster": {
+                "id": 102420
+            },
+            "deleted_at": null
+        },
+        "game": {
+            "id": 1
+        },
+        "organisation": {
+            "id": 155
+        }
+    },
+    {
+        "id": 11,
+        "name": "PSG.LGD",
+        "abbreviation": "PSG.LGD",
+        "dpc_points": 389,
+        "also_known_as": [],
+        "deleted_at": null,
+        "active": true,
+        "images": [
+            {
+                "id": 20524,
+                "type": "default",
+                "url": "https://img.abiosgaming.com/competitors/PSGLGD-2021-teamlogo.png",
+                "thumbnail": "https://img.abiosgaming.com/competitors/thumbnails/PSGLGD-2021-teamlogo.png",
+                "fallback": false
+            }
+        ],
+        "region": {
+            "id": 8,
+            "name": "East Asia",
+            "abbreviation": "EA",
+            "country": {
+                "id": 66,
+                "name": "China",
+                "abbreviation": "CN",
+                "images": [
+                    {
+                        "id": 66,
+                        "type": "default",
+                        "url": "https://img.abiosgaming.com/flags/China.png",
+                        "thumbnail": "https://img.abiosgaming.com/flags/thumbnails/China.png",
+                        "fallback": false
+                    }
+                ]
+            }
+        },
+        "social_media_accounts": [
+            {
+                "handle": "LGDgaming",
+                "url": "https://twitter.com/LGDgaming",
+                "platform": {
+                    "id": 1,
+                    "name": "Twitter",
+                    "slug": "twitter"
+                }
+            },
+            {
+                "handle": "lgdgaming",
+                "url": "https://www.facebook.com/lgdgaming",
+                "platform": {
+                    "id": 2,
+                    "name": "Facebook",
+                    "slug": "facebook"
+                }
+            }
+        ],
+        "standing_roster": {
+            "id": 11865,
+            "from": "2020-09-16T00:00:00Z",
+            "to": null,
+            "roster": {
+                "id": 76642
+            },
+            "deleted_at": null
+        },
+        "game": {
+            "id": 1
+        },
+        "organisation": {
+            "id": 29
+        }
+    },
+    {
+        "id": 30,
+        "name": "Vici Gaming",
+        "abbreviation": "VG",
+        "dpc_points": 366,
+        "also_known_as": [],
+        "deleted_at": null,
+        "active": true,
+        "images": [
+            {
+                "id": 20529,
+                "type": "default",
+                "url": "https://img.abiosgaming.com/competitors/ViciGaming-2021-teamlogo.png",
+                "thumbnail": "https://img.abiosgaming.com/competitors/thumbnails/ViciGaming-2021-teamlogo.png",
+                "fallback": false
+            }
+        ],
+        "region": {
+            "id": 8,
+            "name": "East Asia",
+            "abbreviation": "EA",
+            "country": {
+                "id": 66,
+                "name": "China",
+                "abbreviation": "CN",
+                "images": [
+                    {
+                        "id": 66,
+                        "type": "default",
+                        "url": "https://img.abiosgaming.com/flags/China.png",
+                        "thumbnail": "https://img.abiosgaming.com/flags/thumbnails/China.png",
+                        "fallback": false
+                    }
+                ]
+            }
+        },
+        "social_media_accounts": [
+            {
+                "handle": "vici_gaming",
+                "url": "https://twitter.com/vici_gaming",
+                "platform": {
+                    "id": 1,
+                    "name": "Twitter",
+                    "slug": "twitter"
+                }
+            },
+            {
+                "handle": "TeamViCiGaming",
+                "url": "https://www.facebook.com/TeamViCiGaming",
+                "platform": {
+                    "id": 2,
+                    "name": "Facebook",
+                    "slug": "facebook"
+                }
+            },
+            {
+                "handle": "VICIgaming",
+                "url": "https://weibo.com/VICIgaming",
+                "platform": {
+                    "id": 4,
+                    "name": "Weibo",
+                    "slug": "weibo"
+                }
+            }
+        ],
+        "standing_roster": {
+            "id": 17049,
+            "from": "2022-03-18T00:00:00Z",
+            "to": null,
+            "roster": {
+                "id": 103366
+            },
+            "deleted_at": null
+        },
+        "game": {
+            "id": 1
+        },
+        "organisation": {
+            "id": 111
+        }
+    },
+    {
+        "id": 5904,
+        "name": "Team Liquid",
+        "abbreviation": "Liquid",
+        "dpc_points": 397,
+        "also_known_as": [],
+        "deleted_at": null,
+        "active": true,
+        "images": [
+            {
+                "id": 16993,
+                "type": "default",
+                "url": "https://img.abiosgaming.com/competitors/Teamliquid-new.png",
+                "thumbnail": "https://img.abiosgaming.com/competitors/thumbnails/Teamliquid-new.png",
+                "fallback": false
+            }
+        ],
+        "region": {
+            "id": 1,
+            "name": "Europe",
+            "abbreviation": "EU",
+            "country": {
+                "id": 243,
+                "name": "Sweden",
+                "abbreviation": "SE",
+                "images": [
+                    {
+                        "id": 243,
+                        "type": "default",
+                        "url": "https://img.abiosgaming.com/flags/Sweden.png",
+                        "thumbnail": "https://img.abiosgaming.com/flags/thumbnails/Sweden.png",
+                        "fallback": false
+                    }
+                ]
+            }
+        },
+        "social_media_accounts": [
+            {
+                "handle": "teamliquid",
+                "url": "https://twitter.com/teamliquid",
+                "platform": {
+                    "id": 1,
+                    "name": "Twitter",
+                    "slug": "twitter"
+                }
+            },
+            {
+                "handle": "teamliquid",
+                "url": "https://www.facebook.com/teamliquid",
+                "platform": {
+                    "id": 2,
+                    "name": "Facebook",
+                    "slug": "facebook"
+                }
+            },
+            {
+                "handle": "teamliquid",
+                "url": "https://www.twitch.tv/teamliquid",
+                "platform": {
+                    "id": 3,
+                    "name": "Twitch",
+                    "slug": "twitch"
+                }
+            },
+            {
+                "handle": "teamliquid",
+                "url": "https://weibo.com/teamliquid",
+                "platform": {
+                    "id": 4,
+                    "name": "Weibo",
+                    "slug": "weibo"
+                }
+            },
+            {
+                "handle": "teamliquidpro",
+                "url": "https://vk.com/teamliquidpro",
+                "platform": {
+                    "id": 5,
+                    "name": "VK",
+                    "slug": "vk"
+                }
+            }
+        ],
+        "standing_roster": {
+            "id": 15988,
+            "from": "2021-11-19T00:00:00Z",
+            "to": null,
+            "roster": {
+                "id": 98371
+            },
+            "deleted_at": null
+        },
+        "game": {
+            "id": 1
+        },
+        "organisation": {
+            "id": 7
+        }
+    },
+    {
+        "id": 16045,
+        "name": "Thunder Awaken",
+        "abbreviation": "TA",
+        "dpc_points": 420,
+        "also_known_as": [],
+        "deleted_at": null,
+        "active": true,
+        "images": [
+            {
+                "id": 15741,
+                "type": "default",
+                "url": "https://img.abiosgaming.com/competitors/teamThunderPredatorlogo.png",
+                "thumbnail": "https://img.abiosgaming.com/competitors/thumbnails/teamThunderPredatorlogo.png",
+                "fallback": false
+            }
+        ],
+        "region": {
+            "id": 4,
+            "name": "South America",
+            "abbreviation": "SA",
+            "country": {
+                "id": 200,
+                "name": "Peru",
+                "abbreviation": "PE",
+                "images": [
+                    {
+                        "id": 200,
+                        "type": "default",
+                        "url": "https://img.abiosgaming.com/flags/Peru.png",
+                        "thumbnail": "https://img.abiosgaming.com/flags/thumbnails/Peru.png",
+                        "fallback": false
+                    }
+                ]
+            }
+        },
+        "social_media_accounts": [
+            {
+                "handle": "Thunderawakengg",
+                "url": "https://www.facebook.com/Thunderawakengg",
+                "platform": {
+                    "id": 2,
+                    "name": "Facebook",
+                    "slug": "facebook"
+                }
+            },
+            {
+                "handle": "thunder_awaken",
+                "url": "https://www.twitch.tv/thunder_awaken",
+                "platform": {
+                    "id": 3,
+                    "name": "Twitch",
+                    "slug": "twitch"
+                }
+            }
+        ],
+        "standing_roster": {
+            "id": 16830,
+            "from": "2022-02-19T00:00:00Z",
+            "to": null,
+            "roster": {
+                "id": 101892
+            },
+            "deleted_at": null
+        },
+        "game": {
+            "id": 1
+        },
+        "organisation": null
+    },
+    {
+        "id": 46650,
+        "name": "Team Aster",
+        "abbreviation": "Aster",
+        "dpc_points": 487,
+        "also_known_as": [],
+        "deleted_at": null,
+        "active": true,
+        "images": [
+            {
+                "id": 12198,
+                "type": "default",
+                "url": "https://img.abiosgaming.com/competitors/Team-Aster-logo-new.png",
+                "thumbnail": "https://img.abiosgaming.com/competitors/thumbnails/Team-Aster-logo-new.png",
+                "fallback": false
+            }
+        ],
+        "region": {
+            "id": 8,
+            "name": "East Asia",
+            "abbreviation": "EA",
+            "country": {
+                "id": 66,
+                "name": "China",
+                "abbreviation": "CN",
+                "images": [
+                    {
+                        "id": 66,
+                        "type": "default",
+                        "url": "https://img.abiosgaming.com/flags/China.png",
+                        "thumbnail": "https://img.abiosgaming.com/flags/thumbnails/China.png",
+                        "fallback": false
+                    }
+                ]
+            }
+        },
+        "social_media_accounts": [
+            {
+                "handle": "AsterCN",
+                "url": "https://twitter.com/AsterCN",
+                "platform": {
+                    "id": 1,
+                    "name": "Twitter",
+                    "slug": "twitter"
+                }
+            }
+        ],
+        "standing_roster": {
+            "id": 16004,
+            "from": "2021-11-21T00:00:00Z",
+            "to": null,
+            "roster": {
+                "id": 98386
+            },
+            "deleted_at": null
+        },
+        "game": {
+            "id": 1
+        },
+        "organisation": {
+            "id": 143
+        }
+    },
+    {
+        "id": 46656,
+        "name": "Quincy Crew",
+        "abbreviation": "QC",
+        "dpc_points": 501,
+        "also_known_as": [],
+        "deleted_at": null,
+        "active": true,
+        "images": [
+            {
+                "id": 20525,
+                "type": "default",
+                "url": "https://img.abiosgaming.com/competitors/QuincyCrew-2021-teamlogo.png",
+                "thumbnail": "https://img.abiosgaming.com/competitors/thumbnails/QuincyCrew-2021-teamlogo.png",
+                "fallback": false
+            }
+        ],
+        "region": {
+            "id": 2,
+            "name": "North America",
+            "abbreviation": "NA",
+            "country": {
+                "id": 265,
+                "name": "United States",
+                "abbreviation": "US",
+                "images": [
+                    {
+                        "id": 265,
+                        "type": "default",
+                        "url": "https://img.abiosgaming.com/flags/United-States.png",
+                        "thumbnail": "https://img.abiosgaming.com/flags/thumbnails/United-States.png",
+                        "fallback": false
+                    }
+                ]
+            }
+        },
+        "social_media_accounts": [],
+        "standing_roster": {
+            "id": 15872,
+            "from": "2021-11-04T00:00:00Z",
+            "to": null,
+            "roster": {
+                "id": 97580
+            },
+            "deleted_at": null
+        },
+        "game": {
+            "id": 1
+        },
+        "organisation": null
+    },
+    {
+        "id": 77693,
+        "name": "OB Esports x Neon",
+        "abbreviation": "OB.NEON",
+        "dpc_points": 612,
+        "also_known_as": [],
+        "deleted_at": null,
+        "active": true,
+        "images": [
+            {
+                "id": 19212,
+                "type": "default",
+                "url": "https://img.abiosgaming.com/competitors/OB.NEON-logo.png",
+                "thumbnail": "https://img.abiosgaming.com/competitors/thumbnails/OB.NEON-logo.png",
+                "fallback": false
+            }
+        ],
+        "region": {
+            "id": 9,
+            "name": "South East Asia",
+            "abbreviation": "SEA",
+            "country": {
+                "id": 201,
+                "name": "Philippines",
+                "abbreviation": "PH",
+                "images": [
+                    {
+                        "id": 201,
+                        "type": "default",
+                        "url": "https://img.abiosgaming.com/flags/Philippines.png",
+                        "thumbnail": "https://img.abiosgaming.com/flags/thumbnails/Philippines.png",
+                        "fallback": false
+                    }
+                ]
+            }
+        },
+        "social_media_accounts": [],
+        "standing_roster": null,
+        "game": {
+            "id": 1
+        },
+        "organisation": null
+    }
+]

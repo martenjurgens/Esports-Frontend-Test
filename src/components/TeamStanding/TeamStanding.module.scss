@@ -1,0 +1,116 @@
+.root {
+  width: 100%;
+  max-width: 1192px;
+}
+
+.standing {
+  display: flex;
+  align-items: center;
+  background-color: #edede4;
+  border: none;
+  margin-bottom: 1px;
+  transition: 0.3s;
+  height: 5rem;
+  width: 100%;
+  padding: 0;
+  &:hover {
+    background-color: #a39da1;
+    cursor: pointer;
+  }
+
+  &.active {
+    .accordionIcon {
+      transform: rotate(180deg);
+    }
+  }
+}
+
+.placement {
+  background-color: #393935;
+  color: white;
+  width: 3rem;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 1.5rem;
+}
+
+.info {
+  display: flex;
+  align-items: center;
+  flex-basis: 30%;
+}
+
+.dpc {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-right: 1rem;
+}
+
+.logoimg {
+  width: 3.125rem;
+  margin-right: 1.5rem;
+}
+
+.name {
+  font-size: 1rem;
+  text-align: start;
+  white-space: nowrap;
+}
+
+.indicator {
+  width: 0.5rem;
+  height: 100%;
+}
+
+.invitedIndicator {
+  background-color: #6bff36;
+}
+
+.uninvitedIndicator {
+  background-color: #ff366c;
+}
+
+.roster {
+  display: none;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.accordionIcon {
+  display: flex;
+  margin-left: auto;
+  align-self: center;
+  justify-content: center;
+  margin-right: 0.5rem;
+  transition: transform 0.2s;
+}
+
+.accordionContainer {
+  background-color: #edede4;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+@media only screen and (min-width: 600px) {
+  .dpc {
+    width: 2.5rem;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .roster {
+    display: flex;
+  }
+  .accordionIcon {
+    margin-right: 1rem;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .standing {
+    height: 5rem;
+    width: 1192px;
+  }
+}

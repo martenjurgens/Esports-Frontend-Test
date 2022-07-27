@@ -1,0 +1,58 @@
+.lineupContainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.playerProfile {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.playerImg {
+  width: 50px;
+}
+
+.countryFlagImg {
+  width: 18px;
+  height: 12px;
+  margin-right: 5px;
+  margin-top: 5px;
+}
+
+.nick {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  align-items: center;
+}
+
+@media only screen and (min-width: 550px) {
+  .lineupContainer {
+    gap: 1.5rem;
+    font-size: 16px;
+  }
+
+  .playerImg {
+    width: 70px;
+  }
+
+  .countryFlagImg {
+    display: flex;
+  }
+
+  .nick {
+    flex-direction: row;
+  }
+}
+
+@media only screen and (min-width: 992px) {
+  .playerImg {
+    width: 100px;
+  }
+}

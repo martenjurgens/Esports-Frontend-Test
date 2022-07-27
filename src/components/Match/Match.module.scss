@@ -1,0 +1,39 @@
+.match {
+  height: 40px;
+  background-color: #f5f5f0;
+  display: flex;
+  width: 100%;
+  margin-bottom: 1px;
+  font-size: 14px;
+}
+
+.date {
+  display: flex;
+  flex-basis: 20%;
+  align-self: center;
+  justify-content: flex-start;
+  margin-left: 0.75rem;
+}
+
+.matchDetails {
+  display: flex;
+  align-self: center;
+  flex-grow: 1;
+  justify-content: flex-start;
+  gap: 1rem;
+}
+
+.teamLogo {
+  width: 25px;
+  height: 25px;
+}
+
+.teamName {
+  display: inline-block;
+  width: 50px;
+}
+
+.scores {
+  display: inline-block;
+  width: 35px;
+}
