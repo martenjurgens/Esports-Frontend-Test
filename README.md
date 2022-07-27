@@ -8,7 +8,7 @@ The aim of this project was to focus on the code structure and logic, with minim
 
 ## Demo
 
-![Demo picture](https://i.imgur.com/wpfAUnD.png)
+![Demo picture](https://i.imgur.com/MaM51Ku.png)
 
 
 ## Run Locally
